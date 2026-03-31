@@ -24,7 +24,7 @@ The project demonstrates strong SQL skills including joins, aggregations, CTEs, 
 
 ### 1. Database Setup
 
-![ERD](your_erd_image_path_here)
+![ERD](ERD.pgered.png)
 
 - **Database Creation**: Created a database named `Zomato_Project`.
 - **Table Creation**: Designed tables based on the ERD:
